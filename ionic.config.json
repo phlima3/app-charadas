@@ -1,0 +1,7 @@
+{
+  "name": "charada",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
